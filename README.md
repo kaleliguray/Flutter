@@ -8,7 +8,7 @@ The repo shows my advanced flutter and project related training examples that I 
 
 clone the relevant project. (You will receive a link from our repo here)
 
-` git clone https://github.com/kaleliguray/flutter.git `
+` https://github.com/kaleliguray/Flutter.git `
 
 
 
